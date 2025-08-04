@@ -1,6 +1,6 @@
-# 📊 Churn Prediction com LGBM e SHAP
+# 📊 Churn Prediction com LGBM e RegLog
 
-Este projeto utiliza um modelo de aprendizado de máquina para prever a evasão de clientes (churn) com o algoritmo **LightGBM**. Todo o fluxo inclui pipeline de pré-processamento, tuning do threshold de decisão e análise interpretativa com SHAP (SHapley Additive exPlanations).
+Este projeto utiliza um modelo de aprendizado de máquina para prever a evasão de clientes (churn) com o algoritmo **LightGBM** e **LogisticRegression**. Todo o fluxo inclui pipeline de pré-processamento, tuning do threshold de decisão e análise interpretativa com SHAP (Shapley Additive Explanations).
 
 ## 🔧 Tecnologias Utilizadas
 
